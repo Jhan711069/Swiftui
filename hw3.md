@@ -136,4 +136,4 @@ struct p9View:View{
 
 ```
 
-img src="https://raw.githubusercontent.com/Jhan711069/Swiftui/main/IMG_0050.jpeg">
+<img src="https://raw.githubusercontent.com/Jhan711069/Swiftui/main/IMG_0050.jpeg">
