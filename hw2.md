@@ -80,4 +80,4 @@ struct ContentView: View {
 
 ```
 
-<img src="https://raw.githubusercontent.com/Jhan711069/Swiftui/main/RPReplay_Final1699005211.mov">
+<img src="https://raw.githubusercontent.com/Jhan711069/Swiftui/main/hw2_video.gif">
