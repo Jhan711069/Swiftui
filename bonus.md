@@ -1,4 +1,8 @@
-import SwiftUI
+<h1>hw1</h1>
+
+```swift
+
+      import SwiftUI
 
 struct ContentView: View {
     let displayFontype = [".default",".rounded",".monospaced",".serif"]
@@ -56,3 +60,8 @@ struct ContentView: View {
         }
     }
 }
+
+
+```
+
+<img src="https://raw.githubusercontent.com/Jhan711069/Swiftui/main/Bonus.gif">
